@@ -28,8 +28,4 @@
 		  <version>1.7.30</version>
 	  </dependency>
   </dependencies>
-  <description>
-  	Please start by implementing the unit tests and the underlying application code:
-	/pretest-tdd/src/test/java/com/priceminister/account/CustomerAccountTest.java
-</description>
 </project>
